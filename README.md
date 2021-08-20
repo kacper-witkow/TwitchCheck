@@ -1,0 +1,2 @@
+# TwitchCheck
+Simple Twitch bot.
